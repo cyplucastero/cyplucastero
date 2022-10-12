@@ -1,5 +1,5 @@
 # Hello, welcome to @khangteo1000 GitHub profile.
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/khang.teo.7355/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/khangteo) ![](https://img.shields.io/badge/Cyprus%20Lucastero%235445-%237289DA.svg?logo=discord&logoColor=white)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/khang.teo.7355/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/khangteo) ![](https://img.shields.io/badge/Cyprus%20Lucastero%235445-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ===============================================================
 # What am I?
 Just a student & fullstack developer from Vietnam.
