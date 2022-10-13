@@ -3,13 +3,14 @@
 ===============================================================
 ## What am I?
 - Just a student who likes to programming.
-- Fullstack developer from Vietnam
+- Fullstack developer from Vietnam.
 
 ## Favorite programming language
 - HTML
 - CSS
 - JavaScript
 - PHP
+- Currently learning C and C++
 
 ## Operating system
 - Arch Linux
