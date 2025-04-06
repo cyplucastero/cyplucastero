@@ -1,6 +1,6 @@
 ## About me
 - 15+ years old
-- Speaks Vietnamese and English fluently
+- Speaks Vietnamese (Southern accent) and English fluently
 - Front-end developer
 - I use Arch btw
 
