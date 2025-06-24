@@ -2,7 +2,7 @@
 - 15+ years old
 - Speaks Vietnamese (Southern accent) and English fluently
 - Front-end developer
-- I use Arch btw
+- Creator of [BreezeOS](https://github.com/breezeos)
 
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=cyplucastero&theme=blueberry)<br/>
