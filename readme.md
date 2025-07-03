@@ -1,3 +1,4 @@
+![](./view.jpg)
 ## About me
 - 15+ years old
 - Speaks Vietnamese (Southern accent) and English fluently
